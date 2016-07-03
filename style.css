@@ -51,6 +51,11 @@ a{
 p.text-center {
 font-size:110%;
 }
+
+.panel-body {
+font-weight:bold; 
+}
+
 /* = Blocs
 -------------------------------------------------------------- */
 
