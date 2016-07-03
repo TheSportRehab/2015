@@ -9,6 +9,7 @@ body{
     background:#FFF;
     overflow-x:hidden;
     -webkit-font-smoothing: antialiased;
+    font-size:18px;
 }
 a:hover{text-decoration: none; cursor:pointer;}
 
@@ -30,7 +31,9 @@ a{
  h1, h2, h3, h4, h5, h6, p, label, .btn, a{
 	font-family:Droid Serif;
 }
-
+ h1, h2, h3, h4, h5, h6 {
+/* font-weight:bold; */
+ }
 
 /* Site container width */
 
@@ -38,6 +41,16 @@ a{
 	max-width:1170px;
 }
 
+
+#approach p,
+#about p {
+   text-align: justify;
+    text-justify: inter-word;
+}
+
+p.text-center {
+font-size:110%;
+}
 /* = Blocs
 -------------------------------------------------------------- */
 
@@ -115,7 +128,7 @@ a{
 /* Dark theme */
 
 .d-bloc{
-	color:rgba(255,255,255,.7);
+	color:rgba(255,255,255,.95);
 }
 .d-bloc button:hover{
 	color:rgba(255,255,255,.9);
@@ -225,33 +238,54 @@ a{
 }
 #approach h3{
 	font-size: 32px;
+	font-weight: bold;
 }
 #approach p{
-	font-size: 18px;
+	font-size: 20px;
 }
 #services h3{
 	font-size: 32px;
+	font-weight: bold;
 }
 #services p{
-	font-size: 16px;
+	font-size: 20px;
 }
 #bloc-4 h3{
 	font-size: 32px;
+	font-weight: bold;
 }
 #bloc-4 p{
-	font-size: 16px;
+	font-size: 20px;
 }
 #bloc-5 h3{
 	font-size: 32px;
+	font-weight: bold;
 }
 #bloc-5 p{
-	font-size: 16px;
+	font-size: 20px;
 }
+#about h2{
+	font-size: 34px;
+	font-weight:bold;
+	color: rgb(71, 69, 75);
+	}
 #about h3{
-	font-size: 18px;
+	font-size: 20px;
+	font-weight: bold;
+	color: rgb(71, 69, 75);
+}
+#about p{
+font-size: 20px;
+ color: rgb(71, 69, 75) !important; 
 }
 #bloc-7 p{
 	font-size: 20px;
+}
+
+#contacts h3,
+#testimonials h3,
+#footer h3 {
+font-weight:bold;
 }
 
 /* = NavBar
@@ -532,10 +566,10 @@ button{
 /* = Text & Icon Styles
 -------------------------------------------------------------- */
 .sm-shadow{
-	text-shadow:0 1px 2px rgba(0,0,0,.3);
+/*	text-shadow:0 1px 2px rgba(0,0,0,.3); */
 }
 .lg-shadow{
-	text-shadow:0 2px 5px rgba(0,0,0,.5);
+	/*text-shadow:0 2px 5px rgba(0,0,0,.5); */
 }
 .glow-t{
 	text-shadow:0 0 10px #FFF;
