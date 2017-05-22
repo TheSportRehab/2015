@@ -703,11 +703,17 @@ iframe{
 .bg-active-84646-1920{
 	background-image:url("img/active-84646_1920.jpg");
 }
+.bg-pilates-flex-84646-1920{
+	background-image:url("img/pilates-flex.jpg");
+}
 .bg-massage-650879-1920{
 	background-image:url("img/massage-650879_1920.jpg");
 }
 .bg-active-19413-1280{
-	background-image:url("img/active-19413_1280.jpg");
+	 background-image:url("img/active-19413_1280.jpg");
+ }
+.bg-pilates-flex-19413-1280{
+	background-image:url("img/pilates-flex.jpg");
 }
 .bg-pulse-818378-1920{
 	background-image:url("img/pulse-818378_1920.jpg");
@@ -854,7 +860,7 @@ iframe{
     .navbar-brand img{
         max-height: 40px;
         width:auto;
-        margin: -10px 10px 0 0;    
+        margin: -10px 10px 0 0;
     }
     .nav-invert .navbar-header{
         float: none;
