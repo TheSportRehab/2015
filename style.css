@@ -651,8 +651,8 @@ iframe{
 	background-color:#ffffff;
 }
 .bgc-tiffany-blue{
-	background-color:#10C5C0;
-}
+	 background-color:#10C5C0;
+ }
 .bgc-pastel-red{
 	background-color:#FF6161;
 }
@@ -668,6 +668,24 @@ iframe{
 .bgc-outer-space{
 	background-color:#47454B;
 }
+.bgc-pastel-purple{
+	background-color:#6655e1;
+}
+.bgc-pastel-mauve{
+	background-color:#8d80e9;
+}
+.bgc-pastel-pink{
+	background-color:#e857b3;
+}
+.bgc-pastel-cyan{
+	 background-color:#80d9e9;
+ }
+.bgc-pastel-green{
+	background-color:#86ea81;
+}
+
+
+
 /* Text colour styles */
 
 .tc-outer-space{
@@ -708,16 +726,16 @@ iframe{
 	background-image:url("img/pilates-flex.jpg");
 }
 .bg-massage-650879-1920{
-	background-image:url("img/massage-650879_1920.jpg");
+	background-image:url("");
 }
 .bg-active-19413-1280{
 	 background-image:url("img/active-19413_1280.jpg");
  }
 .bg-pilates-flex-19413-1280{
-	background-image:url("img/active-19413_1280.jpg");
+	background-image:url("");
 }
 .bg-pulse-818378-1920{
-	background-image:url("img/pulse-818378_1920.jpg");
+	background-image:url("");
 }
 .bg-map{
 	background-image:url("img/map.png");
