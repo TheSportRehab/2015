@@ -688,10 +688,11 @@ iframe{
 	 background-color:#80d9e9;
  }
 .bgc-pastel-green{
-	background-color:#86ea81;
+	 background-color:#86ea81;
+ }
+.bgc-pastel-yellow{
+	background-color:#eef442;
 }
-
-
 
 /* Text colour styles */
 
@@ -724,14 +725,21 @@ iframe{
 	color:#FFFFFF!important;
 }
 .btn-pastel-mauve{
-	background:#8d80e9;
-	color:#FFFFFF!important;
-}
+	 background:#8d80e9;
+	 color:#FFFFFF!important;
+ }
 .btn-pastel-mauve:hover{
 	background:#8d80e9;
 	color:#FFFFFF!important;
 }
-
+.btn-pastel-cyan{
+	background:#80d9e9;
+	color:#FFFFFF!important;
+}
+.btn-pastel-cyan:hover{
+	background:#80d9e9;
+	color:#FFFFFF!important;
+}
 
 /* Bloc image backgrounds */
 
